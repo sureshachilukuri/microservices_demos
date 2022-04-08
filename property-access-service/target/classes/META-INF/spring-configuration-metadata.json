@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "property-file",
+      "type": "com.bvr.bean.PropertyAccessBean",
+      "sourceType": "com.bvr.bean.PropertyAccessBean"
+    }
+  ],
+  "properties": [
+    {
+      "name": "property-file.description",
+      "type": "java.lang.String",
+      "sourceType": "com.bvr.bean.PropertyAccessBean"
+    },
+    {
+      "name": "property-file.name",
+      "type": "java.lang.String",
+      "sourceType": "com.bvr.bean.PropertyAccessBean"
+    }
+  ],
+  "hints": []
+}
